@@ -1,0 +1,22 @@
+# General
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Arduino
+*.hex
+*.elf
+*.bin
+*.zip
+
+# Python
+__pycache__/
+
+# Node
+node_modules/
+
+# Secrets
+.env
